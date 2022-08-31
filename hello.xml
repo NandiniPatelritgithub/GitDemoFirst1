@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 <employee>
 	<name>Nandini</name>
 	<id>2160821</id>
 	<Domain>ADMDNSUITE</Domain>
 </employee>
+=======
+<product>
+	<name>Suncros</name>
+	<price>1000</price>
+</product>	
+>>>>>>> br305
